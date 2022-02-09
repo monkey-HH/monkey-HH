@@ -27,3 +27,10 @@ I’m monkey,I build and break stuff.⚡
 
 ------
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<!-- 
+首先建一个和用户名一样的仓库,然后编辑README.md文件
+
+配合[GitHub - anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats) 使用,可以统计数据.
+
+如果要一些图标,则配合这个[库](https://github.com/badges/shields)。
+-->
